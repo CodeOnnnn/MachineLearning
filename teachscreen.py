@@ -4,9 +4,6 @@ SUBMITTED BY
 SARTHAK CHANDNA 
 102053037
 
-GUNEEV KAUR
-102003259
-
 PROJECT DESCRIPTION:
 
 ************************************************  TEACH - SCREEN ***************************************************
